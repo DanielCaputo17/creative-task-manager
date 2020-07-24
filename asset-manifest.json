@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/creative-task-manager/static/css/main.1cf384d2.chunk.css",
+    "main.js": "/creative-task-manager/static/js/main.2e6d1d5f.chunk.js",
+    "main.js.map": "/creative-task-manager/static/js/main.2e6d1d5f.chunk.js.map",
+    "runtime-main.js": "/creative-task-manager/static/js/runtime-main.d03ce020.js",
+    "runtime-main.js.map": "/creative-task-manager/static/js/runtime-main.d03ce020.js.map",
+    "static/js/2.9fb9651a.chunk.js": "/creative-task-manager/static/js/2.9fb9651a.chunk.js",
+    "static/js/2.9fb9651a.chunk.js.map": "/creative-task-manager/static/js/2.9fb9651a.chunk.js.map",
+    "index.html": "/creative-task-manager/index.html",
+    "precache-manifest.4ccfde8984ca80c8bbd7da03c9f5fac8.js": "/creative-task-manager/precache-manifest.4ccfde8984ca80c8bbd7da03c9f5fac8.js",
+    "service-worker.js": "/creative-task-manager/service-worker.js",
+    "static/css/main.1cf384d2.chunk.css.map": "/creative-task-manager/static/css/main.1cf384d2.chunk.css.map",
+    "static/js/2.9fb9651a.chunk.js.LICENSE.txt": "/creative-task-manager/static/js/2.9fb9651a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/creative-task-manager/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d03ce020.js",
+    "static/js/2.9fb9651a.chunk.js",
+    "static/css/main.1cf384d2.chunk.css",
+    "static/js/main.2e6d1d5f.chunk.js"
+  ]
+}
